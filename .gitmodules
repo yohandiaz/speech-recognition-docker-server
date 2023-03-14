@@ -1,0 +1,3 @@
+[submodule "speech-recognition"]
+	path = speech-recognition
+	url = git@github.com:yohandiaz/speech-recognition.git
